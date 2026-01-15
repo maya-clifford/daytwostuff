@@ -10,6 +10,10 @@ file_path = 'analysts-data-tech-companies.csv'
 df = pd.read_csv(file_path)
 
 # %%
+#The extension menu allows you to download many different extensions by searching for them 
+#and also shows the extensions that are downloaded locally, in the codespace, and reccomended 
+#extensions. If you click on an extension, it'll open up the documentation which shows what 
+#it does and allows you to install it. 
 #Three useful elements of Data Wrangler are that it allows you to 
 # visualize & filter large tabular datasets, has one-click transforms 
 # (fill, drop, type-cast…), and it has automatic Pandas code preview & export
