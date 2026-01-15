@@ -17,3 +17,7 @@ df = pd.read_csv(file_path)
 #I installed version 6.5.1 of plotly
 #We use a requirements.txt file so that if other people are using the repo and want to
 #run the code, they can easily install all of the packages that they need at once. 
+
+#%%
+#Step-By-Step Recipe for creating a new working project environment 
+#
